@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T12:45:08.721Z'
-dateModified: '2016-01-01T12:45:07.042Z'
+datePublished: '2016-01-01T12:53:24.705Z'
+dateModified: '2016-01-01T12:53:02.913Z'
 title: On European Identity
 author: []
 sourcePath: _posts/2016-01-01-adkluegdbfkbkegdyle.md
