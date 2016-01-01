@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Staffan Lundgren]]></title>
         <description><![CDATA[Staffan Lundgren]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/saol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 12:35:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 12:35:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/saol/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On European Identity]]></title>
             <description><![CDATA[<article><h1>On European Identity</h1><p>Den 14 december 1973 publiceras ”Declaration on European Identity”, ett dokument undertecknat av utrikesministrarna för de då nio medlemsstaterna i EG med den uttalade intentionen att denna deklaration skall utgöra ett led i utvecklingen av ett Förenat Europa (United Europe).[6] De nio europeiska staterna kan, konstaterar man, på grund av sin historia och genom ett själviskt försvar av missriktade intressen, tidigare ha rört sig ifrån varandra men har nu lagt gamla fientligheter åt sidan och beslutat att enhet är en ”grundläggande europeisk nödvändighet för att säkra överlevnaden av den civilisation [staterna] har gemensam”.[7] Utifrån denna formulering kan enhetstanken förstås på två sätt vilka båda har kommit att prägla de senaste fyrtio årens diskussion om både en europeisk identitet och EU som sådant, ett slags enhet , paradoxalt, som framträder i, genom och trots mångfald. En enhet som tycks definieras av både något yttre och något inre, det förra ofta i form av ett hot, det senare ofta i en idé om en historisk kontinuitet och ett gemensamt andligt — värderingsmässigt — ursprung.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c19b6dbe4aeadcd70f989d9e2b94c7f561ee9d95.jpg"></article>]]></description>
-            <link>undefinedadkluegdbfkbkegdyle/index.html</link>
+            <link>https://thegrid.ai/saol/adkluegdbfkbkegdyle/index.html</link>
             <guid isPermaLink="false">cedf4ab3-290a-4f02-ad35-472b1a865aa8</guid>
             <pubDate>Fri, 01 Jan 2016 12:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[123]]></title>
+            <description><![CDATA[<article><h1>123</h1><p>Begreppet identitetspolitik har i den svenska debatten också kommit att fått en nedsättande innebörd, som en beteckning av en politik som ytterst tjänar till att stärka en marginaliserad grupp på andra gruppers bekostnad, som tjänar till att rättfärdiga vissa kulturella sedvänjor även om dessa står i strid med svensk tradition, svenska värderingar eller till och med svensk lagstiftning. Ett begrepp som för många kommit att betyda samma sak som kulturrelativism och därmed inte antas erkänna de universella värden som förvisso är sprungna ur den europeiska jorden och historien men som ändå antas äga giltighet bortom varje partikulärt intresse.</p></article>]]></description>
+            <link>https://thegrid.ai/saol/123/index.html</link>
+            <guid isPermaLink="false">a3d96912-8b8e-4d24-8b7e-dd0050f3311f</guid>
+            <pubDate>Fri, 01 Jan 2016 12:35:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
