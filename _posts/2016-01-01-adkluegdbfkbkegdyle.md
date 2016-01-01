@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T12:57:24.334Z'
-dateModified: '2016-01-01T12:57:18.629Z'
+datePublished: '2016-01-01T12:59:27.928Z'
+dateModified: '2016-01-01T12:59:25.203Z'
 title: On European Identity
 author: []
 sourcePath: _posts/2016-01-01-adkluegdbfkbkegdyle.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: on-european-identity/index.html
+_type: WebPage
 
 ---
 # 
