@@ -1,6 +1,6 @@
 name: saol
 favicon: null
-layout_spectrum: 0.969368212390691
+layout_spectrum: 0.74675
 typography_spectrum: 0.47374
 title: Staffan Lundgren
 cta:
@@ -23,7 +23,7 @@ color:
     - '#bea09e'
     - '#685f74'
   brandStrength: 0.5
-  lightness: 0.6713694136124104
-  saturation: 0.8874841541983187
-  rhythmicContrast: 0.14009207230992615
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
