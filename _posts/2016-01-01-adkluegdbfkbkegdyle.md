@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T11:22:40.686Z'
-dateModified: '2016-01-01T11:22:22.925Z'
-title: adkluegDbfkbkeGDYLE
+datePublished: '2016-01-01T11:30:11.265Z'
+dateModified: '2016-01-01T11:30:02.240Z'
+title: On European Identity
 author: []
+sourcePath: _posts/2016-01-01-adkluegdbfkbkegdyle.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-01-adkluegdbfkbkegdyle.md
-published: true
 url: adkluegdbfkbkegdyle/index.html
 _type: Article
 
 ---
-# adkluegDbfkbkeGDYLE
+# 
 
-LAKSDHKjahdkHDXöldhp
+# On European Identity
 
-öädjlajDLÖkd
+Den 14 december 1973 publiceras "Declaration on European Identity", ett dokument undertecknat av utrikesministrarna för de då nio medlemsstaterna i EG med den uttalade intentionen att denna deklaration skall utgöra ett led i utvecklingen av ett Förenat Europa (United Europe).\[6\] De nio europeiska staterna kan, konstaterar man, på grund av sin historia och genom ett själviskt försvar av missriktade intressen, tidigare ha rört sig ifrån varandra men har nu lagt gamla fientligheter åt sidan och beslutat att enhet är en "grundläggande europeisk nödvändighet för att säkra överlevnaden av den civilisation \[staterna\] har gemensam".\[7\] Utifrån denna formulering kan enhetstanken förstås på två sätt vilka båda har kommit att prägla de senaste fyrtio årens diskussion om både en europeisk identitet och EU som sådant, ett slags _enhet _, paradoxalt, som _framträder _i, _genom _och _trots _mångfald. En enhet som tycks definieras av både något yttre och något inre, det förra ofta i form av ett hot, det senare ofta i en idé om en historisk kontinuitet och ett gemensamt andligt --- värderingsmässigt --- ursprung.
