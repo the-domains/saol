@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T12:59:27.928Z'
-dateModified: '2016-01-01T12:59:25.203Z'
+datePublished: '2016-01-01T13:00:27.349Z'
+dateModified: '2016-01-01T13:00:23.686Z'
 title: On European Identity
 author: []
 sourcePath: _posts/2016-01-01-adkluegdbfkbkegdyle.md
